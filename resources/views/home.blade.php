@@ -18,7 +18,7 @@
        <p>It's current {{ date('H:i') }} .</p>
 
        <footer>
-           <p>&copy;*Copyright*{{ date('M/Y') }}*&middot; <a href="#">About_Us</a></p> 
+           <p>&copy;*Copyright*{{ date('M/Y') }}*&middot; <a href="/About-Us">About_Us</a></p> 
        </footer>
 
     </body>
